@@ -1,0 +1,27 @@
+{
+  "name": "learn-backend-node",
+  "version": "1.0.0",
+  "description": "Learn NodeJs From Zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letrungnguyen104/learn-node-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Le Trung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letrungnguyen104/learn-node-js/issues"
+  },
+  "homepage": "https://github.com/letrungnguyen104/learn-node-js#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
